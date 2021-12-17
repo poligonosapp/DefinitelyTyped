@@ -25,16 +25,16 @@
         "prettier": "prettier"
     },
     "devDependencies": {
-        "@definitelytyped/definitions-parser": "latest",
+        "@definitelytyped/definitions-parser": "^0.0.100",
         "@definitelytyped/dtslint-runner": "latest",
         "@definitelytyped/utils": "latest",
-        "danger": "^10.1.1",
         "@octokit/rest": "^16.0.0",
-        "dtslint": "latest",
+        "danger": "^10.7.1",
+        "dtslint": "^4.2.1",
         "prettier": "^2.1.1",
         "remark-cli": "^9.0.0",
         "remark-validate-links": "^10.0.2",
-        "typescript": "next"
+        "typescript": "^4.5.4"
     },
     "husky": {
         "hooks": {
